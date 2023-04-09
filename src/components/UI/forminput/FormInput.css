@@ -1,0 +1,8 @@
+.inputs{
+    width: 340px;
+    height: 39px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    display: flex;
+    border: none;
+}
